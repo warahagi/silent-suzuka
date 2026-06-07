@@ -28,5 +28,5 @@
 - **編集権限について:** このリポジトリは個人学習・趣味用のため、作成者本人のみがメンテナンスを行っています。
 
 ---
-作成者: [hagi0218hagi](https://github.com/hagi0218hagi)
-サイトURL: [https://hagi0218hagi.github.io/silent-suzuka/](https://hagi0218hagi.github.io/silent-suzuka/)
+作成者: [warahagi](https://github.com/warahagi)
+サイトURL: [https://warahagi.github.io/silent-suzuka/](https://warahagi.github.io/silent-suzuka/)
